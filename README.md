@@ -1,0 +1,2 @@
+# objStore
+C implementation of a simple object store interface, that stores/retrieves objects in/from the file system. Server and client are basically tests, the core feature is the access library libAcc, whose functionalities are shown in the specification. All the code respects the POSIX standard. Sorry for the italian documentation, please contact me for any doubt or question.
